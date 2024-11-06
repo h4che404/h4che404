@@ -12,3 +12,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4che404&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=h4che404&theme=dark" alt="anii693" /></p>
