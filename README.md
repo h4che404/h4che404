@@ -7,4 +7,8 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=h4che404&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Juan Cruz Github Stats">
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4che404&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
