@@ -11,7 +11,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=h4che404&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Juan Cruz Github Stats">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4che404&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4che404&show_icons=true&theme=dark&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Juan Cruz" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=h4che404&theme=dark" alt="anii693" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=h4che404&theme=dark&hide_border=FALSO&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&type=png&fondo=110E39" alt="GitHub Streak" /></a>
