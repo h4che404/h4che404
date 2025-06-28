@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=8F15F7FF&size=20&center=true&vCenter=true&width=400&height=30&lines=Backend+Developer;Mobile+Developer;Full+Stack;Engineer+Software" alt="Typing SVG" /></a>
 </p>
 <div align="center">
-  <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=h4che404&theme=dark&hide_border=verdadero&locale=es&short_numbers=FALSO&exclude_days=Sun" alt="GitHub Streak" /></a>
 </div>
 
